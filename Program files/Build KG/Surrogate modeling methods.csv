@@ -1,0 +1,18 @@
+﻿Surrogate modeling method,model type,function type
+PRSM_1,PRSM,Order = 1
+PRSM_2,PRSM,Order = 2
+PRSM_3,PRSM,Order = 3
+svr_rbf,SVR,RBF
+svr_linear,SVR,Linear
+svr_poly,SVR,Polynomial
+MARS,MARS,_
+RBF_linear,RBF,Linear
+RBF_thin_plate_spline,RBF,Thin plate spline
+RBF_cubic,RBF,Cubic
+RBF_quintic,RBF,Quintic
+kriging_gauss,Kriging,Gaussian
+kriging_lin,Kriging,Linear
+kriging_spherical,Kriging,Spherical
+kriging_cubic,Kriging,Cubic
+kriging_spline,Kriging,Spline
+kriging_exp,Kriging,Exponential
